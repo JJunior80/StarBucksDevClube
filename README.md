@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto visa a criação de uma página web, usado como inspiração a Starbucks.
+O projeto visa à criação de uma página web, usando como inspiração a Starbucks.
 
 - [Acesse o projeto finalizado, online](https://github.com/rodolfomori/starbucks-devclub)
 
